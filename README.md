@@ -18,7 +18,7 @@
 
 ## 其他
 
-*此软件由`Scratch`开发， HTML使用[Turbowarp](https://packager.turbowarp.org)进行打包。这个项目为H5开发，使用浏览器渲染引擎进行渲染。 如果浏览器渲染引擎版本过低，将导致一些错误。**可以更新浏览器以获得更好的体验。
+**此软件由`Scratch`开发， HTML使用[Turbowarp](https://packager.turbowarp.org)进行打包。这个项目为H5开发，使用浏览器渲染引擎进行渲染。 如果浏览器渲染引擎版本过低，将导致一些错误。**可以更新浏览器以获得更好的体验。
 
 欢迎使用！如果在使用过程中发现错误，可以交Issue或开PR。
 
