@@ -12,7 +12,7 @@
 
 ## 更新&下载
 
-1.7.0版本已于2022年7月22日发布，更新日志&下载[详见Releases界面](https://github.com/wlx321/CatJump/releases) [蓝奏云下载链接](https://wws.lanzouq.com/igwCO08e33xc) 密码:1234 网盘内压缩包含`.html`和`.sb3`两个文件。
+1.8.0版本已于2022年8月10日发布，更新日志&下载[详见Releases界面](https://github.com/wlx321/CatJump/releases) [蓝奏云下载链接](https://wws.lanzouv.com/b03j7u4nc) 密码:1234 网盘内压缩包含`.html`和`.sb3`两个文件。
 
 ***
 
